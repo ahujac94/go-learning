@@ -1,2 +1,2 @@
 # Project Based Learning
- Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+ Please refer to [contributing.md](contributing.md) for contribution guidelines.
